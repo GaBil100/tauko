@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+header, aside, footer, article {display: block}
+body {background-color:#ffe6ff; font-family: }
+header {background-color: lightgrey; height: 120px; margin: 10px;}
+#logo {max-width:96px; max-height:98px; display: block; margin-left: auto; margin-right: auto; padding-top: 12px;}
+#archiv {
+	margin-left: 1080px;
+		position: relative;
+	      bottom: 55px;}
+#page {width:1200px; margin: 0 auto}
+#content {height: 800px position: absolute;}
+article {background-color: lightgrey; width: 380px; height: 380px; float: left; margin: 10px;}
+aside
+#footer {height:120px; width: 1200px; background-color: lightgrey;}
+footer {}
+h1 {font-size: 30px; padding-left: 20px; font-family: 'Fredoka One', cursive;
+}
